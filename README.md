@@ -159,17 +159,26 @@ Adjust based on your learning speed and prior exposure to systems programming.
 
 By the end of this course, you will have built **from scratch**:
 
-1. ✅ **LRU Cache** - Core data structure with ownership patterns
-2. ✅ **Key-Value Store** - Log-structured storage, compaction
-3. ✅ **Redis Clone** - In-memory store with RESP protocol
-4. ✅ **Message Queue** - Persistent queues, consumer groups
-5. ✅ **Distributed Cache** - Consistent hashing, replication
-6. ✅ **Object Store** - S3-like API with streaming uploads
-7. ✅ **Embedded Database** - SQLite-like with B-tree index
-8. ✅ **Compiler/Interpreter** - Lexer, parser, runtime
-9. ✅ **Trading System** - Order matching engine, event bus
-10. ✅ **Python Extensions** - High-performance Rust for Python
-11. ✅ **TypeScript Services** - Rust backends for TS frontends
+### ✅ Complete with Working Code
+1. **LRU Cache** - Core data structure with ownership patterns (Module 01)
+2. **Config CLI Tool** - Serde, validation, error handling (Module 01)
+3. **TCP Chat Server** - Multi-room chat, 1,500 lines (Module 02)
+4. **REST API** - SQLx, validation, full CRUD, 1,100 lines (Module 02)
+5. **WebSocket Notifications** - Real-time push, 700 lines (Module 02)
+6. **Bitcask Key-Value Store** - Log-structured storage, 400 lines (Module 03)
+
+### 📋 Comprehensive Roadmaps Available
+7. **Redis Clone** - In-memory store with RESP protocol (Module 04)
+8. **Message Queue** - Persistent queues, consumer groups (Module 05)
+9. **Distributed Cache** - Consistent hashing, replication (Module 06)
+10. **Object Store** - S3-like API with streaming uploads (Module 07)
+11. **Embedded Database** - SQLite-like with B-tree index (Module 08)
+12. **Compiler/Interpreter** - Lexer, parser, runtime (Module 09)
+13. **Trading System** - Order matching engine, event bus (Module 10)
+14. **Python Extensions** - High-performance Rust for Python (Module 11)
+15. **TypeScript Services** - Rust backends for TS frontends (Module 12)
+
+**Current Status**: 6 complete exercises with ~5,000 lines of production code + 8 detailed implementation roadmaps
 
 ## Engineering Practices
 
