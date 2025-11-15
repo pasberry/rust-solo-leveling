@@ -1,0 +1,13 @@
+[package]
+name = "tcp-chat-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.35", features = ["full"] }
+tokio-stream = "0.1"
+futures = "0.3"
+chrono = "0.4"
+
+[dev-dependencies]
+tokio-test = "0.4"
